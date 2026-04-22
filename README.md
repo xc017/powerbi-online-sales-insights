@@ -73,7 +73,7 @@ Orders (1) → Details (*) via Order ID
 - COD was the most common payment mode.
 - Revenue fluctuated significantly across time.
 
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
 
 ---
 
@@ -95,7 +95,7 @@ Orders (1) → Details (*) via Order ID
 - Some sub-categories operated at a loss.
 - High revenue did not always translate to high profitability.
 
-![Profit Analysis](screenshots/profit-analysis.png)
+![Profit Analysis](profit_analysis.png)
 
 ---
 
@@ -117,7 +117,7 @@ Orders (1) → Details (*) via Order ID
 - Indore, Mumbai, and Pune were leading cities.
 - Repeat purchases were present across the customer base.
 
-![Customer Insights](screenshots/customer-insights.png)
+![Customer Insights](customer_insights.png)
 
 ---
 
@@ -165,5 +165,5 @@ DIVIDE(SUM(Details[Amount]), DISTINCTCOUNT(Orders[CustomerName]))
 
 # Author
 
-Xingyu Chen  
+xh017  
 Sydney, Australia
